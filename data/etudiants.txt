@@ -1,0 +1,3 @@
+1;Oularbi;Hajar;IDIA;20;etu_6afb79d78ade2.jpg
+2;Elalaoui;Meryem;GC;16;
+3;Oufous;Ouidad;GI;15;
